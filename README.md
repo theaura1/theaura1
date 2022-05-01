@@ -1,5 +1,16 @@
 Hi 👋 My name is Lavkesh
-========================Full Stack Developer--------------------I have been coding since 7 years. mainly started from C++ while paving my way from competitive coding to development.* 🌍  I'm based in New Delhi* 🖥️  See my portfolio at [Portfolio-Lavkesh](http://lavkesh.rf.gd)* ✉️  You can contact me at [lavkeshhh@gmail.com](mailto:lavkeshhh@gmail.com)* 🤝  I'm open to collaborating on Interesting Projects* ⚡  I'm an average Pianist
+========================
+
+Full Stack Developer
+--------------------
+
+I have been coding since 7 years. mainly started from C++ while paving my way from competitive coding to development.
+
+* * 🌍  I'm based in New Delhi
+* * 🖥️  See my portfolio at [Portfolio-Lavkesh](http://lavkesh.rf.gd)
+* * ✉️  You can contact me at [lavkeshhh@gmail.com](mailto:lavkeshhh@gmail.com)
+* * 🤝  I'm open to collaborating on Interesting Projects
+* * ⚡  I'm an average Pianist
 
 ### Skills
 
